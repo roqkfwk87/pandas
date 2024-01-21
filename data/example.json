@@ -1,0 +1,5 @@
+{
+    "name": ["Alice", "Bob", "Chris", "Dave"],
+    "age": [24, 27, 33, 41],
+    "gender": ["F", "M", "M", "M"]
+}
